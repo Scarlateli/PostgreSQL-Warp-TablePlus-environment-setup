@@ -101,5 +101,4 @@ DELETE FROM practice.users WHERE id = 1;
 
 ## Resources
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
-- [SQL Tutorial](https://www.w3schools.com/sql/)
 - [TablePlus Documentation](https://docs.tableplus.com/)
