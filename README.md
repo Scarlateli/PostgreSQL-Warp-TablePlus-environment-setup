@@ -5,6 +5,10 @@ Scope: from **data modeling → schema → tables → views → functions → qu
 
 > Tools: PostgreSQL 14+, Warp Terminal, TablePlus (macOS)
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-blue)
+![macOS](https://img.shields.io/badge/macOS-Warp%20%2B%20TablePlus-lightgrey)
+
+
 ## Quick start (macOS, Homebrew)
 ```bash
 brew install postgresql@14
